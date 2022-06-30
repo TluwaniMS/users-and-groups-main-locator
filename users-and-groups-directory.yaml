@@ -1,0 +1,10 @@
+apiVersion: backstage.io/v1alpha1
+kind: Location
+metadata:
+  name: Users and Groups main locator
+  description: this is a basic main users and groups locator.
+spec:
+  type: url
+  targets:
+    - https://github.com/TluwaniMS/backstage-user-entities/blob/master/groups/groups.yaml
+    - https://github.com/TluwaniMS/backstage-user-entities/blob/master/users/users.yaml
