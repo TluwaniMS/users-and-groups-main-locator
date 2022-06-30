@@ -7,3 +7,4 @@ spec:
   type: url
   targets:
     - https://github.com/TluwaniMS/backstage-user-entities/blob/master/avengers-department-central-locator.yaml
+    - https://github.com/TluwaniMS/backstage-user-entities-2/blob/main/wakanda-department-cental-locator.yaml
